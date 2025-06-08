@@ -43,7 +43,6 @@ def construir_arbol():
     abuela_materna = obtener("Nombre de la abuela materna")
     if abuela_materna == "X": return None
 
-    # ahora se arma el arbol con listas anidadas (no usamos clases ni diccionario)
     # cada nodo tiene la forma: [nombre, hijo_izquierdo, hijo_derecho]
     arbol = [
         yo,
