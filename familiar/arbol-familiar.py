@@ -75,7 +75,7 @@ def imprimir_arbol_bonito(arbol, prefijo="", es_ultimo=True):
         es_ultimo_hijo = (i == len(hijos) - 1)
         imprimir_arbol_bonito(hijo, nuevo_prefijo, es_ultimo_hijo)
 
-# ----------- empieza el progama --------------
+# ----------- empieza el progama -------------
 
 arbol_familiar = construir_arbol()
 
