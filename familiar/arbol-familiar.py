@@ -14,7 +14,7 @@ def construir_arbol():
             print("\nFinalizando ingreso de datos.\n")
             return "X"
         if dato == "":
-            return "No ingresado"  # si lo deja vacio se pone este texto
+            return print ("No ingresado")  # si lo deja vacio se pone este texto
         return dato
 
     # se piden los datos de la persona principal

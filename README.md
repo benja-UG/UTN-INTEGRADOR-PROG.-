@@ -33,7 +33,7 @@ python recorridos/in-pre-post.py
 ```
 
 ---
-**Link del video** 
+**Links** 
 
 
 ## Autores
