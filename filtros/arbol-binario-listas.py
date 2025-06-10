@@ -44,7 +44,7 @@ def evaluar_candidato(arbol):
         return
 
     # se muestra la pregunta actual y se pide respuesta
-    respuesta = input(arbol[0] + " (si/no): ").strip().lower()  # quita espacios y pasa a minusculas
+    respuesta = input(arbol[0] + " (si/no): ").strip().lower() # quita espacios y pasa a minusculas
 
     # si el ususario pone algo distinto de si o no, se repite la pregunta
     while respuesta not in ("si", "no"):
