@@ -34,6 +34,7 @@ python recorridos/in-pre-post.py
 
 ---
 **Links** 
+
 Drive con pdf integrador:https://docs.google.com/document/d/1vvi9YdeCs_tYpdkMbMhAP4AoyHoWpbDXMGLdueKablo/edit?usp=drive_link
 
 Video subido a Drive:https://drive.google.com/file/d/1chcJfPw7gA0BOHgu2AkMu9W8iau5SXsS/view?usp=drive_link
